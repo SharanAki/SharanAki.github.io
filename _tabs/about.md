@@ -6,9 +6,9 @@
 
 ---
 
-I'm a passionate **Cyber Security Expert, Cloud Security Specialist,** **Data Analyst**, and **Civil Engineer** from India. My work revolves around securing digital systems, analyzing data to uncover insights, and building robust solutions.
+I'm a passionate **Cyber Security Expert**, **Cloud Security Specialist**, **Data Analyst**, and **Civil Engineer** from India. My work revolves around securing digital systems, analyzing data to uncover insights, and building robust solutions.
 
-This blog is where I share my findings, tutorials, and thoughts on the ever-evolving world of technology and security.
+My expertise is backed by top-tier industry certifications, including the **Microsoft Cybersecurity Architect, Certified Ethical Hacker v12** and **AWS Certified Security – Specialty**.
 
 ---
 
