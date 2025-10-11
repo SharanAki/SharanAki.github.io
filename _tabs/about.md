@@ -1,5 +1,9 @@
 ---
-
+---
+layout: tags
+icon: fas fa-tags
+order: 2
+---
 
 ---
 ## Hi 👋, I'm Aakarsh Sharan
