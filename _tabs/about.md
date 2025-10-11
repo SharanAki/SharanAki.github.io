@@ -56,7 +56,7 @@ Here are some of the technologies I work with:
 * **John the Ripper:** Advanced password cracker.
 * **Wireshark:** In-depth network protocol analysis.
 * **Aircrack-ng:** A complete suite of tools to assess Wi-Fi network security.
-* **Enterprise Cyber Risk & Security Platform | Qualys**
+* **Qualys**
 * **Tenable Nessus**
 
 ---
