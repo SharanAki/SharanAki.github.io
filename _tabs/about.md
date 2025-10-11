@@ -1,5 +1,11 @@
 ---
-
+---
+# The "About" page of the site.
+title: About
+layout: page
+permalink: /about/
+icon: fas fa-user
+---
 
 ---
 ## Hi 👋, I'm Aakarsh Sharan
