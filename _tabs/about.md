@@ -10,6 +10,8 @@ I'm a passionate **Cyber Security Expert**, **Cloud Security Specialist**, **Dat
 
 My expertise is backed by top-tier industry certifications, including the **Microsoft Cybersecurity Architect, Certified Ethical Hacker v12** and **AWS Certified Security – Specialty**.
 
+This blog is where I share my findings, tutorials, and thoughts on the ever-evolving world of technology and security.
+
 ---
 
 ### My Work & Projects
