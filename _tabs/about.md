@@ -4,9 +4,60 @@ icon: fas fa-info-circle
 order: 4
 ---
 >
-> <h1 align="center">Hi 👋, I'm Aakarsh Sharan</h1>
-> <img   alt="Coding" width = "1000" height = "200" align = "right" src="https://wallpaperaccess.com/full/4735135.png">
-> <h3 align="center">A passionate Cyber Security Expert, Data Analyst and Civil Engineer from India</h3>
+>
+> ---
+> # The "About" page of the site.
+> title: About
+> layout: page
+> permalink: /about/
+> # icon: fas fa-user
+> # order: 4
+> ---
+> ![Banner Image](https://wallpaperaccess.com/full/4735135.png)
+>
+> ## Hi 👋, I'm Aakarsh Sharan
+>
+> I'm a passionate **Cyber Security Expert**, **Data Analyst**, and **Civil Engineer** from India. My work revolves around securing digital systems, analyzing data to uncover insights, and building robust solutions.
+>
+> This blog is where I share my findings, tutorials, and thoughts on the ever-evolving world of technology and security.
+>
+> ---
+>
+> ### My Work & Projects
+>
+> I'm always exploring new technologies and building projects. Here are a few highlights:
+>
+> * **Page Rank Algorithm:** I developed a project focused on the **[Page Rank](https://github.com/SharanAki/Page-Rank)** algorithm, a cornerstone of search technology.
+> * **Data Science:** I built a **[Diamond Price Prediction Shiny App](https://sharanaki.shinyapps.io/diam/)** using R. You can view the accompanying presentation **[here](https://rpubs.com/Sharan/PredictingDiamondPrice)**.
+> * **Repositories:** All of my public projects are available on my **[GitHub profile](https://github.com/SharanAki?tab=repositories)**.
+> * **Certificates:** You can view my collection of professional certificates **[here](https://github.com/SharanAki/Certificates/tree/main/Certificate)**.
+>
+> ---
+>
+> ### Let's Connect
+>
+> I'm always open to discussing new projects, sharing knowledge, or exploring opportunities.
+>
+> * **Ask me about:** `R Programming`, `Cyber Security`, or `Cloud Penetration Testing`.
+> * **Email:** Feel free to reach me at **Aakrshsharan@gmail.com**.
+> * **Socials:** Connect with me on **[LinkedIn](https://linkedin.com/in/aakarsh-sharan-9249b6125/)**, **[Facebook](https://www.facebook.com/aakrsh.sharan)**, or **[Instagram](https://www.instagram.com/sharanaakarsh/)**.
+>
+> ---
+>
+> ### Languages and Tools
+>
+> Here are some of the technologies I work with:
+>
+> <p align="center">
+>   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+>   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+>   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+>   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+>   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+>   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+>   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+> </p>
+>
 >
 > <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharanaki&label=Profile%20views&color=0e75b6&style=flat" alt="sharanaki" /> </p>
 >
