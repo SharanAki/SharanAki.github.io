@@ -39,16 +39,24 @@ I'm always open to discussing new projects, sharing knowledge, or exploring oppo
 
 Here are some of the technologies I work with:
 
-* Python & Django
-* Pandas
-* MySQL & SQLite
-* Git
-* Adobe Photoshop
-* BurpSuite
-* Nmap
-* Nessus
-* Qualys
-* AppScan HCL
-* AWS, Azure CLi
+* **Python & Django**
+* **Pandas**
+* **MySQL & SQLite**
+* **Git**
+* **Adobe Photoshop**
+* **Nmap:** Network scanning and host discovery.
+* **theHarvester:** Gathering emails, subdomains, and names from public sources.
+* **Sublist3r:** Fast subdomain enumeration.
+* **Dirb / Gobuster:** Web content discovery.
+* **Burp Suite:** The industry standard for web vulnerability scanning.
+* **Nikto:** Web server scanner.
+* **SQLMap:** Automatic SQL injection and database takeover tool.
+* **Metasploit Framework:** A foundational tool for developing and executing exploit code.
+* **Hydra / Medusa:** Brute-force password cracking.
+* **John the Ripper:** Advanced password cracker.
+* **Wireshark:** In-depth network protocol analysis.
+* **Aircrack-ng:** A complete suite of tools to assess Wi-Fi network security.
+* **Enterprise Cyber Risk & Security Platform | Qualys**
+* **Tenable Nessus**
 
 ---
