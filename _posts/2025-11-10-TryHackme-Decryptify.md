@@ -104,6 +104,10 @@ With the user's email and the cracked seed values known, we can now isolate and 
 
 Testing all the seed values to discover all possible constant_value values, it seems that the seed value for alpha@fake.thm was 1324931 and the constant_value is 99999.
 
+<img src="{{ '/assets/ImageDecryptify/calculation.png' | relative_url }}" alt="apidecryptify">
+
+With the knowledge of the constant_value, we can use the same method from the code snippet to generate an invite code for the other email (hello@fake.thm) discovered in the log file, as shown below:
+
 <img src="{{ '/assets/ImageDecryptify/finalcodedecryptify.png' | relative_url }}" alt="apidecryptify">
 
 Using the invite code we generated, we attempt to log in.
