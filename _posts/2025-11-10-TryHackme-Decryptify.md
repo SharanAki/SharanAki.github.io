@@ -84,7 +84,7 @@ We're missing both the email and the constant_value, so we started fuzzing for d
 
 Checking http://10.201.18.120:1337/logs/, we find that indexing is enabled, and there is a single file named app.log.
 
-<img src="{{ '/assets/ImageDecryptify/applogdecryptify.png' | relative_url }}" alt="apidecryptify">>
+<img src="{{ '/assets/ImageDecryptify/applogdecryptify.png' | relative_url }}" alt="apidecryptify">
 
 ## Finding Seed
 
