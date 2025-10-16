@@ -3,6 +3,7 @@ title: About
 layout: page
 permalink: /about/
 icon: fas fa-user
+order: 4
 ---
 
 ## Hi 👋, I'm Aakarsh Sharan
