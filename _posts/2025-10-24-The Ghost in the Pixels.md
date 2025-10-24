@@ -23,7 +23,7 @@ Before diving into today's sophisticated prompt injections, it is essential to u
 
 The initial attacks, demonstrated by both Xiao et al. in 2019 and analyzed in depth by Quiring et al. in 2020, used a simple but effective visual trick. An attacker begins with a source image, $S$ (e.g., a cat), and a target image, $T$ (e.g., a dog). They then solve a mathematical optimization problem to create a new attack image, $A$. To the human eye, this attack image looks nearly identical to the original cat photo ($A \approx S$). However, when a specific scaling algorithm resizes it to a target dimension, the output, $D$, is a perfect, clear image of the dog ($D \approx T$). This is the core "camouflage" mechanism: an image that holds a secret, revealed only through the act of scaling.
 
-The formal optimization problem seeks to find a minimal perturbation, $\Delta$, to add to the source image $S$, such that the scaled version of the resulting image $A = S + \Delta$ is imperceptibly close to the target image $T$ [2]:
+The formal optimization problem seeks to find a minimal perturbation, $\Delta$, to add to the source image $S$, such that the scaled version of the resulting image $A = S + \Delta$ is imperceptibly close to the target image $T$:
 
 $$
 \min(||\Delta||_{2}^{2}) \quad \text{s.t.} \quad \text{scale}(S+\Delta) \approx T
