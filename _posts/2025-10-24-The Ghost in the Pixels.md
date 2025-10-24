@@ -29,7 +29,7 @@ $$
 \min(||\Delta||_{2}^{2}) \quad \text{s.t.} \quad \text{scale}(S+\Delta) \approx T
 $$
 
-<img src="{{'/assets/AI post scaling/Scaling.png' | relative_url}}" alt="Scaling">
+<img src="{{'/assets/AI post scaling/Scaling.png' | relative_url}}" alt="Scaling" width="400px">
 
 ### Why It's So Dangerous
 
