@@ -94,7 +94,7 @@ Although we confirmed the alpha@fake.thm account is deactivated, its invite code
 
 Finally, running the php_mt_seed program with the value of the invite code, we obtain all possible seed values.
 
-<img src="{{ '/assets/ImageDecryptify/seeddecryptify.png' | relative_url }}"alt="apidecryptify"> 
+<img src="{{ '/assets/ImageDecryptify/seeddecryptify.png' | relative_url }}" alt="apidecryptify">
 
 ### Calculating the Invite Code
 
